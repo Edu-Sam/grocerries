@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:sms/sms.dart';
+import 'package:sms_maintained/sms.dart';
 import 'package:mpesa_flutter_plugin/mpesa_flutter_plugin.dart';
 import 'package:mpesa_flutter_plugin/payment_enums.dart';
 import 'package:dio/dio.dart';

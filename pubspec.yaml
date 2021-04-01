@@ -44,7 +44,8 @@ dependencies:
   googleapis_auth: ^0.2.12
   dio: ^3.0.10
   shared_preferences: ^0.5.12+4
-  sms: ^0.2.0
+  sms_maintained: ^0.2.5
+ # sms: ^0.2.0
 
 dev_dependencies:
   flutter_test:
